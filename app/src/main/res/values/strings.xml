@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VcareAll</string>
+    <string name="materialDesignUiKit">Material Design UI Kit Freebie</string>
+    <string name="signUp">Sign UP</string>
+    <string name="logIn">Log IN</string>
+    <string name="userName">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+</resources>
